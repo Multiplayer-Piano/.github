@@ -1,4 +1,4 @@
-# Welcome to Multiplayer Piano!
+# Welcome to the `Multiplayer Piano` GitHub repo!
 Alternatively named **mppclone**
 
 (information here will be updated as soon as possible/notified)
