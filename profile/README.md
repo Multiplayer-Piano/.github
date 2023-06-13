@@ -19,7 +19,7 @@ Alternatively named `mppclone`/`Multiplayer Piano Clone`.
 - Coding Resources:
   - https://github.com/multiplayerpiano: the old GitHub organization (not actively maintained by anyone updating the code nowadays, for now)
 
-## AVOID THESE!!!
+## AVOID SITES/EMAILS BELOW!!!
 - `multiplayerpiano [dot] com`: they piggy back off of the offical website as a mirror, but plaster it with ADs.
 
 They abuse the free service provided, to essentially gain money off of the project.
