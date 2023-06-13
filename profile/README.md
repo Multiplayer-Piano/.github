@@ -20,13 +20,12 @@ Alternatively named `mppclone`/`Multiplayer Piano Clone`.
   - https://github.com/multiplayerpiano: the old GitHub organization (not actively maintained by anyone updating the code nowadays, for now)
 
 ## AVOID THESE!!!
-- `multiplayerpiano [dot] com`
-
-They piggy back off of the offical website as a mirror, but plaster it with ADs.
+- `multiplayerpiano [dot] com`: they piggy back off of the offical website as a mirror, but plaster it with ADs.
 
 They abuse the free service provided, to essentially gain money off of the project.
 
 **You wouldn't want to support that, right?**
 
-Also, avoid the old Discord server which was taken over by the same people:
-  - `discord [dot] com [forward slash] invite [forward slash] Xr5dubEYgV`
+Also, avoid these, which were taken over by the same people:
+  - `discord.com/invite [forward slash] Xr5dubEYgV`: the old Discord server
+  - `multiplayerpiano [dot] com@gmail.com`: the old contact email
