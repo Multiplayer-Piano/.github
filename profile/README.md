@@ -1,5 +1,5 @@
 # Welcome to the `Multiplayer Piano` GitHub organization!
-Alternatively named `mppclone`.
+Alternatively named `mppclone`/`Multiplayer Piano Clone`.
 
 (information here will be updated as soon as possible/notified)
 
@@ -16,7 +16,7 @@ Alternatively named `mppclone`.
   - https://mpp.community/: the official community forum
 
 ### Outdated Resources & Websites
-- https://github.com/multiplayerpiano: not maintained by anyone actively maintaining the code. (for now)
+- https://github.com/multiplayerpiano: the old GitHub organization (not actively maintained by anyone updating the code nowadays, for now)
 
 ## AVOID THIS WEBSITE
 - `multiplayerpiano [dot] com`
