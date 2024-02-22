@@ -1,15 +1,15 @@
 # Welcome to the `Multiplayer Piano` GitHub organization!
-Alternatively named `mppclone`/`Multiplayer Piano Clone`.
+Alternatively named `mppnet`/`mppclone`/`Multiplayer Piano Clone`.
 
 (information here will be updated as soon as possible/notified)
 
 ### Up-to-date Resources & Websites
 - Playable Websites:
-  1. https://mppclone.com/ (stable)
+  1. https://multiplayerpiano.net/ (stable)
   2. https://www.multiplayerpiano.org/ (mirror website to previous)
-  3. https://dev.mppclone.com/ (unstable: but gets bleeding edge updates and feature tests)
+  3. https://dev.multiplayerpiano.net/ (unstable: but gets bleeding edge updates and feature tests)
 - Coding Resources:
-  - https://github.com/LapisHusky/mppclone: the official GitHub repo for the open-sourced client (currently)
+  - https://github.com/mppnet/frontend: the official GitHub repo for the open-sourced client (currently)
 - Social Media:
   - https://mppclone.reddit.com/: the official subreddit
   - https://discord.gg/338D2xMufC: the official Discord server
