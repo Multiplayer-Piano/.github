@@ -11,7 +11,7 @@ Alternatively named `mppnet`/`mppclone`/`Multiplayer Piano Clone`.
 - Coding Resources:
   - https://github.com/mppnet/frontend: the official GitHub repo for the open-sourced client (currently)
 - Social Media:
-  - https://mppclone.reddit.com/: the official subreddit
+  - https://multiplayerpianonet.reddit.com/: the official subreddit
   - https://discord.gg/338D2xMufC: the official Discord server
   - https://mpp.community/: the official community forum
 
